@@ -17,4 +17,4 @@
 ×n)，验证了其在求解大规模组合优化问题时的有效性和实用性。<br>
 ![image]https://github.com/guorenwei0121/tsp-questions/blob/main/TspProject/images/ui.png <br> 
 ![image]https://github.com/guorenwei0121/tsp-questions/blob/main/TspProject/images/answer.png
-![image]https://github.com/guorenwei0121/tsp-questions/blob/main/TspProject/images/path1.png! <br> [image]https://github.com/guorenwei0121/tsp-questions/blob/main/TspProject/images/trend1.png  <br> ![image]https://github.com/guorenwei0121/tsp-questions/blob/main/TspProject/images/path2.png <br>![image]https://github.com/guorenwei0121/tsp-questions/blob/main/TspProject/images/trend2.png
+![image]https://github.com/guorenwei0121/tsp-questions/blob/main/TspProject/images/path1.png <br> ![image]https://github.com/guorenwei0121/tsp-questions/blob/main/TspProject/images/trend1.png  <br> ![image]https://github.com/guorenwei0121/tsp-questions/blob/main/TspProject/images/path2.png <br>![image]https://github.com/guorenwei0121/tsp-questions/blob/main/TspProject/images/trend2.png
