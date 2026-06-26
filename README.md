@@ -15,3 +15,4 @@
 经过不断试算得到最佳旅行路线，并确定最优的参数值。与暴力穷举法相比，遗传算法
 的时间复杂度从 O(n!)降至 O(T×count×max{count, 2 n })，空间复杂度从 O(n!)降至 O(count
 ×n)，验证了其在求解大规模组合优化问题时的有效性和实用性。
+![image]https://github.com/guorenwei0121/tsp-questions/blob/main/TspProject/images/ui.png
