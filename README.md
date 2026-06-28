@@ -14,10 +14,16 @@
 通过实验分析种群规模、变异概率和迭代次数这三个关键参数对算法收敛性的影响，
 经过不断试算得到最佳旅行路线，并确定最优的参数值。与暴力穷举法相比，遗传算法
 的时间复杂度从 O(n!)降至 O(T×count×max{count, 2 n })，空间复杂度从 O(n!)降至 O(count
-×n)，验证了其在求解大规模组合优化问题时的有效性和实用性。<br>
-![image](https://github.com/guorenwei0121/tsp-questions/blob/main/TspProject/images/ui.png)
-![image](https://github.com/guorenwei0121/tsp-questions/blob/main/TspProject/images/answer.png)
+×n)，验证了其在求解大规模组合优化问题时的有效性和实用性。<br>  
+交互界面  
+![image](https://github.com/guorenwei0121/tsp-questions/blob/main/TspProject/images/ui.png)  
+文字结果  
+![image](https://github.com/guorenwei0121/tsp-questions/blob/main/TspProject/images/answer.png)  
+路径图1  
 ![image](https://github.com/guorenwei0121/tsp-questions/blob/main/TspProject/images/path1.png) 
+趋势图1  
 ![image](https://github.com/guorenwei0121/tsp-questions/blob/main/TspProject/images/trend1.png)  
+路径图2  
 ![image](https://github.com/guorenwei0121/tsp-questions/blob/main/TspProject/images/path2.png)   
+趋势图2  
 ![image](https://github.com/guorenwei0121/tsp-questions/blob/main/TspProject/images/trend2.png)
